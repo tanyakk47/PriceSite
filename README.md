@@ -23,15 +23,15 @@ _Although this site is not currently hosted, it is a comprehensive solution for 
 
 Available indicators include:
 
-Relative Strength Index (RSI)
+-Relative Strength Index (RSI)
 
-Simple Moving Average (SMA)
+-Simple Moving Average (SMA)
 
-Exponential Moving Average (EMA)
+-Exponential Moving Average (EMA)
 
-Moving Average Convergence Divergence (MACD)
+-Moving Average Convergence Divergence (MACD)
 
-Bollinger Bands
+-Bollinger Bands
 
 ![image](https://github.com/tanyakk47/PriceSite/assets/90147581/ae4ca87d-9db7-422f-84a7-5370f047198e)
 
