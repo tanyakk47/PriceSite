@@ -5,6 +5,7 @@ The website leverages the Financial Modeling Prep API to retrieve data and provi
 _Although this site is not currently hosted, it is a comprehensive solution for financial data analysis._
 
 **Features**
+![image](https://github.com/tanyakk47/PriceSite/assets/90147581/081a3f7b-9d97-40d8-a90f-a3352af45d8d)
 
   **Price Charting**
     -Build price charts based on closing prices.
@@ -22,3 +23,25 @@ _Although this site is not currently hosted, it is a comprehensive solution for 
   **Volume Analysis**
     -Create volume charts to display trading volume.
     -Compare the trading volume of different companies.
+
+
+**Project Background**
+In my bachelor's thesis, I analyzed the medical sector to examine the impact of COVID-19 on medical companies before and during the pandemic.
+The analysis was conducted using historical data retrieved from the Financial Modeling Prep API and included:
+
+Building price charts with indicators like RSI, SMA, EMA, MACD, and Bollinger Bands.
+
+Analyzing volatility by comparing volatility charts of different companies.
+
+Studying trading volume and comparing it across companies.
+
+The analysis revealed that the financial indicators, volatility, and trading volume corroborated each other.
+When indicators suggested a potential reversal in a company's performance, high volatility indicated significant price changes,
+and trading volume reflected the number of trades executed.
+
+**Conclusion**
+The comprehensive analysis confirmed that:
+ -Financial indicators can predict potential market movements.
+ -High volatility often accompanies significant price changes.
+ -Trading volume is a crucial metric for understanding market activity.
+ -This project demonstrates the interrelatedness of financial indicators, volatility, and trading volume, providing valuable insights for investors and analysts.
