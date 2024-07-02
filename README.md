@@ -17,9 +17,10 @@ _Although this site is not currently hosted, it is a comprehensive solution for 
 
 -Build price charts based on closing prices.
 
--Select indicators from a dropdown menu to overlay on the price chart. Available indicators include:
+-Select indicators from a dropdown menu to overlay on the price chart.
 ![image](https://github.com/tanyakk47/PriceSite/assets/90147581/ea875538-931a-4f2f-bd55-0572dbc1d2d2)
 
+Available indicators include:
 Relative Strength Index (RSI)
 
 Simple Moving Average (SMA)
