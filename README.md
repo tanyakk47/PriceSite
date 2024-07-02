@@ -11,8 +11,7 @@ _Although this site is not currently hosted, it is a comprehensive solution for 
     -Users need to enter the company's ticker symbol and the desired analysis period.
     
     -After entering the information, users can choose from three buttons to specify the type of analysis: Volatility, Volume, and Price.
-
-![image](https://github.com/tanyakk47/PriceSite/assets/90147581/081a3f7b-9d97-40d8-a90f-a3352af45d8d)
+    ![image](https://github.com/tanyakk47/PriceSite/assets/90147581/081a3f7b-9d97-40d8-a90f-a3352af45d8d)
 
   **Price Charting**
   
