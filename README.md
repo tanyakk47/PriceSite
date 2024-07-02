@@ -18,9 +18,11 @@ _Although this site is not currently hosted, it is a comprehensive solution for 
 -Build price charts based on closing prices.
 
 -Select indicators from a dropdown menu to overlay on the price chart.
+
 ![image](https://github.com/tanyakk47/PriceSite/assets/90147581/ea875538-931a-4f2f-bd55-0572dbc1d2d2)
 
 Available indicators include:
+
 Relative Strength Index (RSI)
 
 Simple Moving Average (SMA)
@@ -33,21 +35,25 @@ Bollinger Bands
 
 ![image](https://github.com/tanyakk47/PriceSite/assets/90147581/ae4ca87d-9db7-422f-84a7-5370f047198e)
 
-  **Volatility Analysis**
-  
-    -Generate volatility charts for individual companies.
-    
-    -Add volatility charts of other companies for comparison.
-    
-    ![image](https://github.com/tanyakk47/PriceSite/assets/90147581/3d4524f0-2f45-400b-85a6-50632fd68607)
+**Volatility Analysis**
 
-  **Volume Analysis**
-    -Create volume charts to display trading volume.
-    -Compare the trading volume of different companies.
+-Generate volatility charts for individual companies.
+
+-Add volatility charts of other companies for comparison.
+
+![image](https://github.com/tanyakk47/PriceSite/assets/90147581/3d4524f0-2f45-400b-85a6-50632fd68607)
+
+**Volume Analysis**
+
+-Create volume charts to display trading volume.
+
+-Compare the trading volume of different companies.
+
 ![image](https://github.com/tanyakk47/PriceSite/assets/90147581/3981e0f1-e831-4136-8ebc-1af75293354c)
 
 
 **Project Background**
+
 In my bachelor's thesis, I analyzed the medical sector to examine the impact of COVID-19 on medical companies before and during the pandemic.
 The analysis was conducted using historical data retrieved from the Financial Modeling Prep API and included:
 
@@ -62,8 +68,13 @@ When indicators suggested a potential reversal in a company's performance, high 
 and trading volume reflected the number of trades executed.
 
 **Conclusion**
+
 The comprehensive analysis confirmed that:
+
  -Financial indicators can predict potential market movements.
+ 
  -High volatility often accompanies significant price changes.
+ 
  -Trading volume is a crucial metric for understanding market activity.
+ 
  -This project demonstrates the interrelatedness of financial indicators, volatility, and trading volume, providing valuable insights for investors and analysts.
