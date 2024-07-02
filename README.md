@@ -7,25 +7,38 @@ _Although this site is not currently hosted, it is a comprehensive solution for 
 **Features**
 
   **Main Page Form**
+  
     -Users need to enter the company's ticker symbol and the desired analysis period.
+    
     -After entering the information, users can choose from three buttons to specify the type of analysis: Volatility, Volume, and Price.
 
 ![image](https://github.com/tanyakk47/PriceSite/assets/90147581/081a3f7b-9d97-40d8-a90f-a3352af45d8d)
 
   **Price Charting**
+  
     -Build price charts based on closing prices.
+    
     -Select indicators from a dropdown menu to overlay on the price chart. Available indicators include:
     ![image](https://github.com/tanyakk47/PriceSite/assets/90147581/ea875538-931a-4f2f-bd55-0572dbc1d2d2)
+    
         Relative Strength Index (RSI)
+        
         Simple Moving Average (SMA)
+        
         Exponential Moving Average (EMA)
+        
         Moving Average Convergence Divergence (MACD)
+        
         Bollinger Bands
+        
     ![image](https://github.com/tanyakk47/PriceSite/assets/90147581/ae4ca87d-9db7-422f-84a7-5370f047198e)
 
   **Volatility Analysis**
+  
     -Generate volatility charts for individual companies.
+    
     -Add volatility charts of other companies for comparison.
+    
     ![image](https://github.com/tanyakk47/PriceSite/assets/90147581/3d4524f0-2f45-400b-85a6-50632fd68607)
 
   **Volume Analysis**
